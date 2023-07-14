@@ -1,0 +1,36 @@
+body{
+    margin:0;
+    padding:0;
+    font-family:Arial, Helvetica, sans-serif;
+
+}
+table,th,td
+{
+    width:1500px;
+    height:5px;
+    margin:auto;
+    font-size:15px;
+    text-align:center;
+    border:1px solid black;
+}
+
+
+label{
+dispaly:block;
+font:1rem'Fira sans',sans-serif;
+}
+input,
+label{
+margin:0.4rem 0;
+}
+
+
+
+
+
+th,td{
+padding-top:10px;
+padding-bottom:20px;
+padding-left:30px;
+padding-right:40px;
+}
